@@ -52,7 +52,7 @@ Special thanks to mentors and organizers at **Reva University** for their guidan
 
 ## 📸 Screenshots
 
-| In-Game Shots | |
+
 |--|--|
 | ![1](https://github.com/user-attachments/assets/180bd089-46e6-4696-93cd-41a00e302045) | ![2](https://github.com/user-attachments/assets/7c2197cb-88c8-449b-aadc-e802dfa434ea) |
 | ![3](https://github.com/user-attachments/assets/537346c1-dc9f-4d7a-b35f-7c43637b5fda) | ![4](https://github.com/user-attachments/assets/2c0ee550-e7e1-4246-a5b0-ad5065c5ab28) |
@@ -60,7 +60,7 @@ Special thanks to mentors and organizers at **Reva University** for their guidan
 
 ---
 
-## 🔗 Play the Game
+## 🔗  Game Created :
 
 👉 [**Download / Access the Game**](https://github.com/user-attachments/assets/e6d8b156-38de-4d75-9970-ad47fe3ba5d4)
 
